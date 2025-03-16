@@ -81,7 +81,12 @@ See [`.github/workflows/ci.yml`](.github/workflows/ci.yml) for more details.
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/yourusername/leachuuid7/issues) if you have any questions or suggestions.
+Feel free to check the [issues page](https://github.com/copyleftdev/leachuuid7/issues) if you have any questions or suggestions.
+
+## Repository
+
+The repository for this project is hosted on GitHub:  
+[https://github.com/copyleftdev/leachuuid7](https://github.com/copyleftdev/leachuuid7)
 
 ## License
 
