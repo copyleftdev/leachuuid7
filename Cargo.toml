@@ -1,0 +1,9 @@
+[package]
+name = "leachuuid7"
+version = "0.1.0"
+edition = "2021"
+description = "A UUIDv7 generator conforming 100% to the proposed UUID-7 specification. Named as a clever homage in the UUID space."
+license = "MIT"
+
+[dependencies]
+rand = "0.9.0"
